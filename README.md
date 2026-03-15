@@ -73,8 +73,8 @@ To file a compatibility report, use the
 
 ## Building
 
-See [building.md](docs/building.md) for setup and information about the
-`xb` script. When writing code, check the [style guide](docs/style_guide.md)
+See [building.md](https://github.com/xenios-jp/XeniOS/blob/xenios/docs/building.md) for setup and information about the
+`xb` script. When writing code, check the [style guide](https://github.com/xenios-jp/XeniOS/blob/xenios/docs/style_guide.md)
 and be sure to run clang-format!
 
 ## Contributors Wanted!
@@ -83,7 +83,7 @@ Have some spare time, know advanced C++, and want to write an emulator?
 Contribute! There's a ton of work that needs to be done, a lot of which
 is wide open greenfield fun.
 
-**For general rules and guidelines please see [CONTRIBUTING.md](.github/CONTRIBUTING.md).**
+**For general rules and guidelines please see [CONTRIBUTING.md](https://github.com/xenios-jp/XeniOS/blob/xenios/.github/CONTRIBUTING.md).**
 
 Fixes and optimizations are always welcome, especially around Apple platform
 performance, UI polish, compatibility coverage, packaging, and tooling.
@@ -91,7 +91,7 @@ performance, UI polish, compatibility coverage, packaging, and tooling.
 Start with the
 [XeniOS issue tracker](https://github.com/xenios-jp/XeniOS/issues),
 join the [XeniOS Discord](https://discord.gg/QwcTtNKTGf), check
-[CONTRIBUTING.md](.github/CONTRIBUTING.md), and coordinate before starting
+[CONTRIBUTING.md](https://github.com/xenios-jp/XeniOS/blob/xenios/.github/CONTRIBUTING.md), and coordinate before starting
 larger work.
 
 ## Disclaimer
