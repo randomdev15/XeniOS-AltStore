@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="256px" src="assets/apple/xenios-readme-icon.png" alt="XeniOS app icon" />
+    <img height="256px" src="icons/xenios-readme-icon.png" alt="XeniOS app icon" />
 </p>
 
 <h1 align="center">XeniOS - Xbox 360 Emulator</h1>
