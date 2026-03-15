@@ -51,7 +51,7 @@ Download XeniOS from
 - [Latest GitHub release](https://github.com/xenios-jp/XeniOS/releases/latest)
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
-   <a href="https://stikstore.app/altdirect/?url=[https://github.com/randomdev15/XeniOS/blob/main/apps.json]" target="_blank">
+   <a href="https://stikstore.app/altdirect/?url=https://github.com/randomdev15/XeniOS/blob/main/apps.json" target="_blank">
      <img src="https://github.com/stikstore/altdirect/blob/main/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200">
    </a>
 </div>
